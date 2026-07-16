@@ -1,1 +1,7 @@
+<<<<<<< Updated upstream
 fixed
+=======
+bug
+正在开发新功能...
+这是dev分支添加的内容
+>>>>>>> Stashed changes
